@@ -1,5 +1,5 @@
 # finance_calculators
-## What the finance_calculators project is for.
+## What the finance_calculators project is for
 The finance_calculators project enables the user to access and use two different financial calculators:
 * An investment calculator
 * A home loan repayment calculator

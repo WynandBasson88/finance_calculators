@@ -9,9 +9,9 @@ If the **investment calculator** is selected from the menu the user will be aske
 * The annual interest rate as a percentage
 * The number of years the money will be invested (t)
 * If the user wants **simple interest** or **compound interest**
-  * The **total investment** is calculated using the formula below when **simple interest** is selected:  
+  * The total investment is calculated using the formula below when **simple interest** is selected:  
   A = P(1 + r * t)
-  * The **total investment** is calculated using the formula below when **compound interest** is selected:  
+  * The total investment is calculated using the formula below when **compound interest** is selected:  
   A = P(1 + r) ^ t  
   In the formulas above the annual interest rate as a percentage / 100 = (r)
 

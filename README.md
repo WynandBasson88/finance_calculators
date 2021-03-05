@@ -35,7 +35,6 @@ This project can be used by anyone who wants to calculate the total of an invest
 ## Contact information
 Wynand Basson  
 bassonwynand@gmail.com  
-https://www.linkedin.com/in/wynand-basson/
 https://github.com/WynandBasson88
-https://wynandbasson88.github.io/Wynand_Basson_Resume/
+
 

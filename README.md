@@ -1,8 +1,8 @@
 # finance_calculators
 ## What the finance_calculators project is for
-The finance_calculators project enables the user to access and use two different financial calculators:
-* An investment calculator
-* A home loan repayment calculator
+The finance_calculators project was created using Python. This project enables the user to access and use two different financial calculators:
+* Investment calculator
+* Home loan repayment calculator
 
 If the **investment calculator** is selected from the menu the user will be asked to enter specific information about the investment:
 * The amount being invested (A)
@@ -36,3 +36,4 @@ This project can be used by anyone who wants to calculate the total of an invest
 Wynand Basson  
 bassonwynand@gmail.com  
 https://github.com/WynandBasson88
+https://wynandbasson88.github.io/Wynand_Basson_Resume/
